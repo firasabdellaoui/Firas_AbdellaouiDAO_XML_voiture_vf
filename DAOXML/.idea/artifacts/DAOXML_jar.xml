@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DAOXML:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DAOXML_jar</output-path>
+    <root id="archive" name="DAOXML.jar">
+      <element id="module-output" name="DAOXML" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="DAOXML">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/DAOXML.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
